@@ -1,0 +1,7 @@
+base   nbsp
+author M. Waterman/Myron Turner
+email  turnermm02@shaw.ca
+date   2020-10-07
+name   nbsp
+desc   fixes Waterman nbsp for hogfather use
+url    https://www.dokuwiki.org/plugin:nbsp
